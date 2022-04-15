@@ -1,7 +1,7 @@
-# Встановлення Starlink на автівку
+# Встановлення Starlink в автівку
 
 Для мобiльного викрористання (тобто запуска вiд генератору машини) потрiбно наступне:
-* Iнвентор, схожий або подібний [до такого](https://www.amazon.com/BESTEK-Inverter-Adapter-Converter-Charging/dp/B086SSRRZ7).
+* Iнвентор, схожий або подібний [до цього](https://www.amazon.com/BESTEK-Inverter-Adapter-Converter-Charging/dp/B086SSRRZ7).
 * В застосунку Starlink, потрiбно вимкнути опцiю Snow Melt, як показано на зображеннi нижче. Завдяки цьому, зменшиться енергоспоживання антени, так як вона працюватиме вiд iнвертору.
 
   ![image_1_1_30](https://user-images.githubusercontent.com/103349548/162613264-7619528d-b6d5-4e23-9d03-aabaaea418d9.png)
