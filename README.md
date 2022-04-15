@@ -4,3 +4,4 @@
 
 * [Перше підключення Starlink](https://github.com/dmlebany/slink/blob/main/first-setup.md)
 * [Встановлення та експлуатація Starlink у середовищі з високою загрозою](https://github.com/dmlebany/slink/blob/main/threat-env.md)
+* [Встановлення Starlink в автівку](https://github.com/dmlebany/slink/blob/main/mobility.md)
