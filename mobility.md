@@ -1,4 +1,4 @@
-# Встановлення Starlink на автівку.
+# Встановлення Starlink на автівку
 
 Для мобiльного викрористання (тобто запуска вiд генератору машини) потрiбно наступне:
 * Iнвентор, схожий або подібний [до такого](https://www.amazon.com/BESTEK-Inverter-Adapter-Converter-Charging/dp/B086SSRRZ7).
